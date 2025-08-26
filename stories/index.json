@@ -1,0 +1,56 @@
+[
+  {
+    "title": "dullahan",
+    "folder": "dullahan",
+    "coverUrl": "https://yourserver.com/stories/desert_adventure/cover.jpg"
+  },
+  {
+    "title": "kessler catastrophe",
+    "folder": "kessler_catastrophe",
+    "coverUrl": "https://yourserver.com/stories/forest_mystery/cover.jpg"
+  },
+
+  {
+    "title": "leningrad",
+    "folder": "leningrad",
+    "coverUrl": "https://yourserver.com/stories/desert_adventure/cover.jpg"
+  },
+
+  {
+    "title": "librarian",
+    "folder": "librarian",
+    "coverUrl": "https://yourserver.com/stories/desert_adventure/cover.jpg"
+  },
+
+  {
+    "title": "mandela effect",
+    "folder": "mandela_effect",
+    "coverUrl": "https://yourserver.com/stories/desert_adventure/cover.jpg"
+  },
+
+  {
+    "title": "marble",
+    "folder": "marble",
+    "coverUrl": "https://yourserver.com/stories/desert_adventure/cover.jpg"
+  },
+
+  {
+    "title": "radioactive oasis",
+    "folder": "radioactive_oasis",
+    "coverUrl": "https://yourserver.com/stories/desert_adventure/cover.jpg"
+  },
+
+  {
+    "title": "symmetry cure",
+    "folder": "symmetry_cure",
+    "coverUrl": "https://yourserver.com/stories/desert_adventure/cover.jpg"
+  },
+
+  {
+    "title": "thirteenth floor",
+    "folder": "thirteenth_floor",
+    "coverUrl": "https://yourserver.com/stories/desert_adventure/cover.jpg"
+  }
+
+  
+]
